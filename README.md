@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi, I'm Andy
 
-<!--
-**TheAndelope/TheAndelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a highschooler with a passion for **machine learning**, **game development**, and building things that matter.
 
-Here are some ideas to get you started:
+#### 🔭 Projects I'm Working On
+- 🧠 `Quacky Game`: A multiplayer browser game built with React + Socket.IO
+- 🤖 EMG-Controlled Robotic Hand – bio-signal driven, real-time control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Currently Learning
+- Flutter for mobile app development
+
+#### 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/andy-duong-380521300/) • [Email](mailto:theandelope16@gmail.com)
+
+---
+> "Code is poetry when it solves a real problem."
