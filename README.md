@@ -5,6 +5,7 @@ I'm a highschooler with a passion for **machine learning**, **game development**
 #### 🔭 Projects I'm Working On
 - 🦆 `Quacky Game`: A multiplayer browser game built with React + Socket.IO
 - 🤖 EMG-Controlled Robotic Hand – bio-signal driven, real-time control
+- 🍇 `Jam`: A psychological horror game where a mother must rescue her daughter from a mysterious mansion built in Unity
 
 #### 🌱 Currently Learning
 - Flutter for mobile app development
