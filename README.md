@@ -3,7 +3,7 @@
 I'm a highschooler with a passion for **machine learning**, **game development**, and building things that matter.
 
 #### 🔭 Projects I'm Working On
-- 🧠 `Quacky Game`: A multiplayer browser game built with React + Socket.IO
+- 🦆 `Quacky Game`: A multiplayer browser game built with React + Socket.IO
 - 🤖 EMG-Controlled Robotic Hand – bio-signal driven, real-time control
 
 #### 🌱 Currently Learning
