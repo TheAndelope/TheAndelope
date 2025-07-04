@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Andy<br>I'm a highschooler with a passion for machine learning, game development, and building things that matter.<br>🔭 Projects I'm Working On<br>🧠 Transformer from Scratch – Building a mini GPT-style language model to learn how attention and self-supervision really work<br>🦆 Quacky Game: A multiplayer browser game built with React + Socket.IO<br>🤖 EMG-Controlled Robotic Hand – bio-signal driven, real-time control<br>🌱 Currently Learning<br>Flutter for mobile app development
+👋 Hi, I'm Andy<br>I'm an incoming Honours Math Student at the University of Waterloo with a passion for machine learning, game development, and building things that matter.
 
 
 ## 🌐 Socials:
